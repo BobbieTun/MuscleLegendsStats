@@ -1,7 +1,8 @@
 # MuscleLegendsStats
 About the game
-
-
+```Vietnamese is below this english version```
+```scroll down to read```
+## English
 ## Glitch
 - Glitchable at every rebirth which ends with 0
 - ex: 100 200 110 120
@@ -105,3 +106,77 @@ When EXP is exactly at the limit → glitch works
 - EXP_other = EXP_muscle / rock value
 - Glitch success depends on exact EXP alignment
 - Small EXP mismatch = glitch fails
+
+
+
+
+
+## Vietnamese
+# Hướng dẫn Glitch (Newbie → Pro)
+
+- Glitch trong Muscle Legends có thể thực hiện ở mọi rebirth có số tận cùng là 0 (ví dụ: 0, 10, 100, 110, 120, 200…).  
+- Chỉ số glitch tối thiểu là +1, tối đa là +95.
+
+## Các mốc rebirth dễ glitch cho người mới gồm:  
+- 0, 5, 12, 120, 180, 280, 360, 460.  
+- Dưới 980 rebirth thì pet Epic cho hiệu quả glitch tốt nhất, và 980 là mốc glitch tối ưu nhất trước 1000.
+
+- Các mốc rebirth tối ưu không cần bù EXP (áp dụng cho Muscle King Mountain):  
+980 (+15), 1180 (+20), 2080 (+30), 3580 (+35), 4580 (+40),  
+5780 (+55), 6580 (+60), 7780 (+65), 8080/8380 (+60),  
+9080 (+65), 10480 (+70), 11980 (+75), 13780 (+80),  
+15380 (+85), 17080 (+90), 18880/18980 (+95 – max).
+
+- Pet nên dùng để glitch là các pet Unique (màu cam) như:  
+- DarkStar, Cyber, Flaming Hedgehog, Elec Bunny.  
+- Các pet khác không khuyến nghị vì có thể biến mất sau nhiều lần rebirth.
+
+# EXP theo level của pet được tính bằng công thức:  
+- EXP = 1250 × level  
+- Ví dụ: level 1 = 1250, level 2 = 2500, level 3 = 3750, level 4 = 5000, …
+
+- EXP nhận được khi đấm rock được tính theo công thức:  
+- (rebirth + 20) × giá trị rock
+
+Giá trị rock:
+Tiny Rock = 0.025  
+Punching Rock = 0.05  
+Large Rock = 0.075  
+Golden Rock = 0.2  
+Frozen Rock = 0.375  
+Mystic Rock = 0.75  
+Inferno Rock = 1.125  
+Rock of Legends = 2.5  
+Muscle King Mountain = 12.5  
+
+- Ví dụ ở 30 rebirth:  
+- Muscle King Mountain: (30 + 20) × 12.5 = 625 EXP  
+- Rock of Legends: (30 + 20) × 2.5 = 125 EXP
+
+- Cách glitch pet (dễ hiểu):
+- Đấm rock để lấy EXP  
+→ Xác định level tiếp theo cần bao nhiêu EXP  
+→ Tính EXP còn thiếu để chạm mốc level  
+→ Bù EXP cho đúng mốc  
+→ Khi EXP chạm đúng giới hạn level thì glitch sẽ thành công
+
+- Ví dụ với 15000 rebirth (Muscle King Mountain):  
+- EXP nhận được = (15000 + 20) × 12.5 = 187,500 EXP  
+
+- Cộng EXP theo level thì dừng ở level 16 và còn dư 17,750 EXP  
+- Level 17 cần 21,250 EXP nên chưa đủ
+
+# Để glitch thành công:
+- EXP cần bù = 21,250 − 17,750 = 3,500 EXP  
+
+Vì 1 level = 1250 EXP:  
+3,500 EXP = lên level 2 và còn dư 2,250 EXP  
+
+→ Pet cần ở level 2 với 2,250 EXP để glitch thành công
+
+# Lưu ý quan trọng:
+EXP phải khớp chính xác, lệch dù rất nhỏ cũng khiến glitch thất bại  
+Nếu dùng rock khác Muscle King thì quy đổi theo công thức:  
+EXP rock khác = EXP Muscle King / giá trị rock  
+
+Toàn bộ tài liệu này mặc định tính theo Muscle King Mountain.
