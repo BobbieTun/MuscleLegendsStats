@@ -69,7 +69,8 @@ When EXP is exactly at the limit → glitch works
   - 15000 rebirths = (15000 + 20 ) * 12.5 = 187,500
   - which you need to calculate exp so the exp total of level < 187,500
 1250 + 2500 + 3750 + 5000 + .... < 187,500
-    | Level | EXP cần | EXP còn    |
+    
+| Level | EXP cần | EXP còn    |
 | ----- | ------- | ---------- |
 | 1     | 1,250   | 186,500    |
 | 2     | 2,500   | 184,000    |
