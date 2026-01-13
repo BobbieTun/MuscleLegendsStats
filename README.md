@@ -92,8 +92,8 @@ When EXP is exactly at the limit → glitch works
 ->  you will reach level 16 17,750 exp after punch 
 # so if you want to get it glitchable, you will need the exp = limit of the next level which mean
 - you will need exp = max of lvl 17 = 21250
-# so you will need to add 21,250 - 17,750 = 3500
-# note the exp need to add = 3500
+-> so you will need to add 21,250 - 17,750 = 3500
+ -> note the exp need to add = 3500
 - now add it to the pet <=> add 3500 exp to pet before u glitch or else u can't
 - As we know lvl has 1250 exp => 3500 - 1250 = 2250 -> +1 lvl = lvl 2
 - 2250 < 2500 -> we have to make the exp of pet 2250 and at level 2
